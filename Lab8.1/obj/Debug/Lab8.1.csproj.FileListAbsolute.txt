@@ -1,0 +1,10 @@
+C:\Users\XPPro\Desktop\Programs\3sem\Lab8.1\Lab8.1\bin\Debug\Lab8.1.exe.config
+C:\Users\XPPro\Desktop\Programs\3sem\Lab8.1\Lab8.1\bin\Debug\Lab8.1.exe
+C:\Users\XPPro\Desktop\Programs\3sem\Lab8.1\Lab8.1\bin\Debug\Lab8.1.pdb
+C:\Users\XPPro\Desktop\Programs\3sem\Lab8.1\Lab8.1\bin\Debug\ClassLibrary1.dll
+C:\Users\XPPro\Desktop\Programs\3sem\Lab8.1\Lab8.1\bin\Debug\ClassLibrary1.pdb
+C:\Users\XPPro\Desktop\Programs\3sem\Lab8.1\Lab8.1\obj\Debug\Lab8.1.csproj.AssemblyReference.cache
+C:\Users\XPPro\Desktop\Programs\3sem\Lab8.1\Lab8.1\obj\Debug\Lab8.1.csproj.CoreCompileInputs.cache
+C:\Users\XPPro\Desktop\Programs\3sem\Lab8.1\Lab8.1\obj\Debug\Lab8.1.csproj.CopyComplete
+C:\Users\XPPro\Desktop\Programs\3sem\Lab8.1\Lab8.1\obj\Debug\Lab8.1.exe
+C:\Users\XPPro\Desktop\Programs\3sem\Lab8.1\Lab8.1\obj\Debug\Lab8.1.pdb

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Pig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Country>Russia</Country>
+  <HideFromOtherAnimal>Bear</HideFromOtherAnimal>
+  <Name>Anatoliy</Name>
+  <WhatAnimal>Pig</WhatAnimal>
+  <ClassificationAnimal>Herbivores</ClassificationAnimal>
+  <FavoriteFood>Everything</FavoriteFood>
+</Pig>

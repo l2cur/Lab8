@@ -1,0 +1,9 @@
+C:\Users\XPPro\Desktop\Programs\3sem\Lab8.1\Part1_deserilizar\bin\Debug\Part1_deserilizar.exe.config
+C:\Users\XPPro\Desktop\Programs\3sem\Lab8.1\Part1_deserilizar\bin\Debug\Part1_deserilizar.exe
+C:\Users\XPPro\Desktop\Programs\3sem\Lab8.1\Part1_deserilizar\bin\Debug\Part1_deserilizar.pdb
+C:\Users\XPPro\Desktop\Programs\3sem\Lab8.1\Part1_deserilizar\bin\Debug\ClassLibrary1.dll
+C:\Users\XPPro\Desktop\Programs\3sem\Lab8.1\Part1_deserilizar\bin\Debug\ClassLibrary1.pdb
+C:\Users\XPPro\Desktop\Programs\3sem\Lab8.1\Part1_deserilizar\obj\Debug\Part1_deserilizar.csproj.CoreCompileInputs.cache
+C:\Users\XPPro\Desktop\Programs\3sem\Lab8.1\Part1_deserilizar\obj\Debug\Part1_deserilizar.csproj.CopyComplete
+C:\Users\XPPro\Desktop\Programs\3sem\Lab8.1\Part1_deserilizar\obj\Debug\Part1_deserilizar.exe
+C:\Users\XPPro\Desktop\Programs\3sem\Lab8.1\Part1_deserilizar\obj\Debug\Part1_deserilizar.pdb
